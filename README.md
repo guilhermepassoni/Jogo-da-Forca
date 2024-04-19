@@ -1,7 +1,7 @@
 # Jogo da Forca
 ![istockphoto-1196954772-612x612](https://github.com/guilhermepassoni/Jogo-da-Forca/assets/166672112/5b67dd1e-f916-4e81-bfb3-966be80d1b91)
 ### 🎯 Objetivo:
-Neste projeto, demonstro como é possível apenas utilizando lógica de programação e funções buit-in confeccionar uma aplicação em Python.
+Neste projeto, demonstro como é possível apenas utilizando lógica de programação e funções built-in confeccionar uma aplicação em Python.
 
 ### 🔨 Ferramentas utilizadas:
 * Python
